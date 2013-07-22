@@ -6,7 +6,7 @@ ActiveRecord で ReadOnly なテーブル用の Model を作る時用のモジ�
 
 Add this line to your application's Gemfile:
 
-    gem 'readonlyable'
+    gem 'readonlyable', git: 'git://github.com/akishin/readonlyable.git'
 
 And then execute:
 
